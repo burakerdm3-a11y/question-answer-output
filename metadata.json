@@ -1,0 +1,5 @@
+{
+  "name": "Soru-Cevap Akış Tasarımı",
+  "description": "Sebep-sonuç iletişim akışları veya karar ağaçları oluşturmak için etkileşimli bir uygulama. Kullanıcılar düğümler ekleyebilir, sorular veya ifadeler tanımlayabilir ve yeni düğümlere bağlanan yanıt seçenekleri oluşturarak etkileşimlerin görsel bir akış şemasını oluşturabilir.",
+  "requestFramePermissions": []
+}
